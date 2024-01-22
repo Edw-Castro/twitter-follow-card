@@ -17,7 +17,7 @@ Asegúrate de tener Node.js y npm instalados. Luego, sigue estos pasos:
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/TuUsuario/Twitter-Follow-Component.git
+git clone https://github.com/Edw-Castro/twitter-follow-card.git
 
 # Entra al directorio del proyecto
 cd Twitter-Follow-Component
